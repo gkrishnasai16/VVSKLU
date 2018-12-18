@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "883898493553",
+    "firebase_url": "https://vvsklu-a840d.firebaseio.com",
+    "project_id": "vvsklu-a840d",
+    "storage_bucket": "vvsklu-a840d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883898493553:android:79baa3d917658647",
+        "android_client_info": {
+          "package_name": "com.klu.vvs.vvsklu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883898493553-l230kvj9dbdelvdac2pu37atlubbplab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klu.vvs.vvsklu",
+            "certificate_hash": "fc3ea60e507737578bfd6142b2b8f8b70c29e9c9"
+          }
+        },
+        {
+          "client_id": "883898493553-4f6jnfi2c7kavuh3flb6fiuijd0g5jhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klu.vvs.vvsklu",
+            "certificate_hash": "424c82e98dbdc7ff3aff131eb4b5abd0b43385f6"
+          }
+        },
+        {
+          "client_id": "883898493553-416im27gicb13vbc205pfh03rr7j5aek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcyAoDfUP91-wMbS37-f-v5Iolr7pwAvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883898493553-416im27gicb13vbc205pfh03rr7j5aek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
